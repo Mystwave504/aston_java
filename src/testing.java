@@ -9,6 +9,6 @@ public class testing {
         a.add(5);
         a.add(354);
         a.sort();
-        System.out.println(a.toString());
+        System.out.println(a);
     }
 }
