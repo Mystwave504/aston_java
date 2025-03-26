@@ -11,4 +11,8 @@ public interface List<T> {
     public void clear();
 
     public void sort();
+
+    public int size();
+
+    public String toString();
 }
