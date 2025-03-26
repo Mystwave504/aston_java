@@ -1,18 +1,18 @@
 public interface List<T> {
 
-    public void add(T value);
+    void add(T value);
 
-    public void add(T value, int index);
+    void add(T value, int index);
 
-    public T get(int index);
+    T get(int index);
 
-    public void remove(T value);
+    void remove(T value);
 
-    public void clear();
+    void clear();
 
-    public void sort();
+    void sort();
 
-    public int size();
+    int size();
 
-    public String toString();
+    String toString();
 }
