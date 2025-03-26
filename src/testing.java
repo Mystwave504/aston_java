@@ -3,7 +3,7 @@
 
 public class testing {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         ArrayList<Integer> a = new ArrayList<>();
         a.add(123);
         a.add(5);
